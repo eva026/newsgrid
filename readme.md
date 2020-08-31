@@ -15,19 +15,19 @@
 
 ## General info
 
-News Grid is made of five parts, i.e., home, about, explore, contact and book.
+News Grid is made of two pages, i.e., home and about.
 
 ## Screenshots
 
-![Example screenshot](./images/screenshot.jpg)
+![Example screenshot](./img/screenshot.jpg)
 
 ## Technologies
 
-- Bootstrap - version 4.5
+- Html/CSS 3
 
 ## Setup
 
-\$ npm install
+_no extra actions_
 
 ## Code Examples
 
@@ -46,7 +46,7 @@ Project is: _done_.
 
 ## Inspiration
 
-Add here credits. Project inspired by Colt Steele, based on his course: "The Bootstrap 4 Bootcamp".
+Add here credits. Project inspired by Brad Traversy, based on his course: "Modern HTML & CSS From The Beginning (Including Sass)".
 
 ## Contact
 
